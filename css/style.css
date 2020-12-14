@@ -1,0 +1,41 @@
+.brand-logo {
+    font-weight: 500;
+}
+
+.slider h3,
+.slider h2,
+.slider h5 {
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+section,
+footer {
+    padding: 20px 0;
+}
+
+.profile .row {
+    padding: 20px 0;
+}
+
+.satu img {
+    width: 200px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.quotes {
+    padding: 20px 0;
+}
+
+.quotes h3 {
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+    font-style: italic;
+}
+
+.quotes h6 {
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+}
